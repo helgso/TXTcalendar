@@ -14,4 +14,4 @@ Laugardagur, 3. janúar
 
 and so on until the 31st of December.
 
-He would then be able to write stuff he wanted to get done each day. He'd only have to do CTRL + F and type in the current day to navigate to that day. His screenreader would then easily read each line of the day, making it easy for him to add more things to his day.
+He would then be able to write stuff he wanted to get done each day. He'd only have to open the file in his favorite text editor, do CTRL + F and navigate to a day he wanted. His screenreader would then easily read each line of the day he already wrote, making it easy for him to add more things to his day.
